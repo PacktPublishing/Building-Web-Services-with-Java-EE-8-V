@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Building Web Services with Java EE 8
 This comprehensive guide shows you how to use the APIs provided by Java EE to create RESTful web services. You will learn how to use the different JAX-RS APIs in depth, in order to create web services. You will delve into the structure of web services and communicate and shared data between applications. Throughout this course, you will develop several fully functional web services.
 # Approach 
